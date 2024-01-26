@@ -1,0 +1,125 @@
+body {
+    background-color: #d9d9d9;
+    color: black;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    background-color: #d9d9d9;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    border: 2px solid green;
+}
+
+
+.container1 {
+    margin: 0px 200px 0px 300px;
+    background-color: #d9d9d9;
+    color: black;
+    padding: 12px;
+
+    border: 2px solid green;
+}
+
+b {
+
+    color: blue;
+}
+
+header {
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    left: 1px;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 444px;
+
+}
+
+.navbar ul li {
+    list-style: none;
+
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    margin: 12px;
+    padding: 2px;
+    font-size: 21px;
+    color: white;
+}
+
+.navbar ul li a:hover {
+    color: grey;
+    text-decoration: underline;
+
+}
+
+.container4 {
+    margin: 0 0 0 50px;
+    color: black;
+}
+
+.container6 {
+    margin: 0 0 0 400px;
+    color: black;
+}
+
+h1 {
+    margin: 20px 400px;
+
+}
+
+.btn1 {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 15px;
+    margin: 4px 0;
+    cursor: pointer;
+}
+
+.btn1:hover {
+
+    color: white;
+    text-decoration: underline;
+
+}
+
+
+input {
+    font-size: 24px;
+
+}
+
+textarea {
+    font-size: 24px;
+}
+
+#delete_btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 3px 8px;
+    font-size: 14px;
+    margin: 15px;
+    cursor: pointer;
+}
+
+#delete_btn:hover {
+    color: white;
+    text-decoration: underline;
+}
+
